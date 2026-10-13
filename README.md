@@ -10,7 +10,7 @@ the assignment's stated primary stack.
 
 ## Demo
 
-Screen recording: [`demo/mynaksh_demo.mp4`](./demo/mynaksh_demo.mp4)
+https://github.com/Harshit812/MyNaksh/raw/main/demo/mynaksh_demo.mp4
 
 ## Running it
 

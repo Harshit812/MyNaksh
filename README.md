@@ -8,6 +8,10 @@ send with retry, loading/empty/error states). Built on the bare React Native CLI
 (not Expo) with React Native Reanimated driving the feedback-chip animation, per
 the assignment's stated primary stack.
 
+## Demo
+
+Screen recording: [`demo/mynaksh_demo.mp4`](./demo/mynaksh_demo.mp4)
+
 ## Running it
 
 ```
